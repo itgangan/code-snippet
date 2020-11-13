@@ -1,9 +1,3 @@
-/**
- * Copyright (c) 2020,TravelSky.
- * All Rights Reserved.
- * TravelSky CONFIDENTIAL
- */
-
 package com.algorithm;
 
 /**
